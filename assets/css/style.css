@@ -41,3 +41,58 @@ body {
 .navigation a:hover {
     color: #7777dd;
 }
+.main {
+    padding: 70px 8%;
+}
+
+.hero {
+    text-align: center;
+    padding: 100px 20px;
+    background-color: #e5e9ff;
+    border-radius: 25px;
+}
+
+.subtitle {
+    color: #7777dd;
+    letter-spacing: 4px;
+    margin-bottom: 20px;
+}
+
+.hero h1 {
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.description {
+    font-size: 18px;
+    line-height: 1.7;
+    margin-bottom: 30px;
+}
+
+.button {
+    display: inline-block;
+    background-color: #7777dd;
+    color: white;
+    padding: 14px 30px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.button:hover {
+    background-color: #5555bb;
+}
+
+.about {
+    text-align: center;
+    padding: 70px 20px;
+}
+
+.about h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.about p {
+    font-size: 17px;
+    line-height: 1.7;
+}
