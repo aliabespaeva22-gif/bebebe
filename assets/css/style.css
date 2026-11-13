@@ -96,3 +96,19 @@ body {
     font-size: 17px;
     line-height: 1.7;
 }
+.footer {
+    text-align: center;
+    background-color: #25283d;
+    color: white;
+    padding: 40px 20px;
+}
+
+.footer h3 {
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+
+.footer p {
+    margin: 10px 0;
+    color: #c8c9d8;
+}
